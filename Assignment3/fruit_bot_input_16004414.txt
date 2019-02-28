@@ -1,0 +1,13 @@
+battery_capacity=36
+maximum_fruit_kg=23
+maximum_move=5
+CSE: other
+Campus Charging: will sell 18 kJ of Electricity for $5/kJ
+Kensington Apple Farm: will sell 44 kg of Apples for $15/kg
+Mathews A: will buy 22 kg of Apples for $32/kg
+CLB 7: will buy 9 kg of Apples for $33/kg
+Campus Compost Heap: will buy 1270 kg of Anything for $1/kg
+Quadrangle: other
+"Mr Meeseeks" is at "Quadrangle" with $163, battery level: 16, 23 kg of Apples
+*** Turn 12 of 12 ***
+*** You are "Mr Meeseeks"

@@ -1,0 +1,37 @@
+battery_capacity=72
+maximum_fruit_kg=19
+maximum_move=4
+John Lions Garden: other
+Maroubra Melons: will sell 33 kg of Watermelons for $8/kg
+Botany Produce: will sell 33 kg of Kiwifruit for $22/kg
+Kora Lab: will buy 41 kg of Durian for $45/kg
+CLB 8: will buy 25 kg of Kiwifruit for $42/kg
+Clovelly Watermelons: will sell 32 kg of Watermelons for $7/kg
+Power For You: will sell 23 kJ of Electricity for $4/kJ
+Village Green: other
+Rosebery Orange Grove: will sell 39 kg of Oranges for $18/kg
+Discount Electrons: will sell 35 kJ of Electricity for $3/kJ
+Bondi Banana Growers: will sell 17 kg of Bananas for $27/kg
+Kingsford Oranges: will sell 38 kg of Oranges for $33/kg
+UNSW Green Waste: will buy 1064 kg of Anything for $1/kg
+Paddington Banana Plantation: will sell 41 kg of Bananas for $23/kg
+J17 G03: will buy 45 kg of Oranges for $61/kg
+Physics Theatre: will buy 48 kg of Bananas for $41/kg
+Quadrangle Lawn: other
+Science Theatre: will buy 38 kg of Kiwifruit for $32/kg
+Anzac Parade: other
+Campus Citrus Centre: will sell 54 kg of Oranges for $23/kg
+Mathews B: will buy 25 kg of Watermelons for $16/kg
+Smelly Fruits R Us: will sell 48 kg of Durian for $26/kg
+Mathews C: will buy 38 kg of Kiwifruit for $25/kg
+Kensington Kiwifruit: will sell 42 kg of Kiwifruit for $19/kg
+Eastgardens Fruit: will sell 48 kg of Kiwifruit for $20/kg
+Clancy Auditorium: will buy 15 kg of Oranges for $41/kg
+Physics Lawn: other
+Wentworth Watermelons: will sell 38 kg of Watermelons for $8/kg
+Sitar Lab: will buy 58 kg of Durian for $52/kg
+Viola Lab: will buy 50 kg of Durian for $66/kg
+K17 Basement: will buy 15 kg of Bananas for $35/kg
+"Mr Meeseeks" is at "Clovelly Watermelons" with $394, battery level: 67, 19 kg of Watermelons
+*** Turn 4 of 100 ***
+*** You are "Mr Meeseeks"
